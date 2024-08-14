@@ -1,0 +1,21 @@
+leftnav:
+- identifier: bf3d8fbe-0a56-4c19-a784-1bd25c86168f
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 67023701-889f-4335-a3ac-f39d53e116ac
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 69e6e8ba-6acd-4e2b-8716-5bbbfca59fce
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 30
+- identifier: 094338cb-8b40-407f-9e0d-81dadb2332bd
+  name: Lecture Notes
+  pageRef: /lists/lecture-notes
+  weight: 40
+- identifier: 8c2c464a-306a-41fd-89d7-a241e8ca05fe
+  name: Problem Sets
+  pageRef: /pages/problem-sets
+  weight: 50
