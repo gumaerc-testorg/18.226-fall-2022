@@ -1,0 +1,52 @@
+{
+  "term": "Fall",
+  "year": "2022",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Mathematics",
+      "Discrete Mathematics"
+    ],
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "e7e967ed-94b7-8fd8-0578-c3aba7691859"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "f204c741-cab9-4c12-99be-1764fcd881c9",
+    "website": "probabilistic-methods-in-combinatorics"
+  },
+  "course_title": "Probabilistic Methods in Combinatorics",
+  "hide_download": false,
+  "course_description": "This course is a graduate-level introduction to the probabilistic methods, a fundamental and powerful technique in combinatorics and theoretical computer science. The essence of the approach is to show that some combinatorial object exists and prove that a certain random construction works with positive probability. The course focuses on methodology as well as combinatorial applications.",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.226",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "probabilistic-methods-in-combinatorics"
+  },
+  "learning_resource_types": [
+    "Instructor Insights",
+    "Online Textbook",
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "site_uid": "ab66905f-8227-4493-91b1-837728b72fcb",
+  "site_short_id": "18.226-fall-2022"
+}
