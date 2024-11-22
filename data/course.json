@@ -31,6 +31,7 @@
   },
   "course_title": "Probabilistic Methods in Combinatorics",
   "hide_download": false,
+  "mit_learn_topics": [],
   "course_description": "This course is a graduate-level introduction to the probabilistic methods, a fundamental and powerful technique in combinatorics and theoretical computer science. The essence of the approach is to show that some combinatorial object exists and prove that a certain random construction works with positive probability. The course focuses on methodology as well as combinatorial applications.",
   "department_numbers": [
     "18"
@@ -45,6 +46,7 @@
     "Instructor Insights",
     "Online Textbook",
     "Lecture Notes",
+    "Lecture Videos",
     "Problem Sets"
   ],
   "site_uid": "ab66905f-8227-4493-91b1-837728b72fcb",
