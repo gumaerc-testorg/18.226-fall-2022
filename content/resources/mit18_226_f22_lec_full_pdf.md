@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/18-226-probabilistic-methods-in-combinatorics-fall-2022/mit18_226_f22_lec_full.pdf
+file: courses/probabilistic-methods-in-combinatorics/mit18_226_f22_lec_full.pdf
 file_size: 1678275
 file_type: application/pdf
 image_metadata:
