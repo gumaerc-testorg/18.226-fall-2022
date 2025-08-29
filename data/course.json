@@ -44,11 +44,12 @@
   },
   "learning_resource_types": [
     "Instructor Insights",
-    "Online Textbook",
+    "Open Textbooks",
     "Lecture Notes",
     "Lecture Videos",
     "Problem Sets"
   ],
   "site_uid": "ab66905f-8227-4493-91b1-837728b72fcb",
-  "site_short_id": "18.226-fall-2022"
+  "site_short_id": "18.226-fall-2022",
+  "site_url_path": "courses/18-226-probabilistic-methods-in-combinatorics-fall-2022"
 }

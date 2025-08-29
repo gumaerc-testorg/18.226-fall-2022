@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/probabilistic-methods-in-combinatorics/mit18_226f22_large_bipartite_subgraph_360p.mp4
+file: /ol-ocw-studio-app/courses/18-226-probabilistic-methods-in-combinatorics-fall-2022/mit18_226f22_large_bipartite_subgraph_360p.mp4
 file_size: 802928445
 file_type: video/mp4
 image_metadata:
