@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/probabilistic-methods-in-combinatorics/18226-threshold-for-a-random-graph-to-contain-a-triangle_360p_16_9.mp4
+file: /ol-ocw-studio-app/courses/18-226-probabilistic-methods-in-combinatorics-fall-2022/18226-threshold-for-a-random-graph-to-contain-a-triangle_360p_16_9.mp4
 file_size: 127815239
 file_type: video/mp4
 image_metadata:

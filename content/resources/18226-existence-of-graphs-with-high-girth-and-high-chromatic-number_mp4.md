@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/probabilistic-methods-in-combinatorics/18226-existence-of-graphs-with-high-girth-and-high-chromatic-number_360p_16_9.mp4
+file: /ol-ocw-studio-app/courses/18-226-probabilistic-methods-in-combinatorics-fall-2022/18226-existence-of-graphs-with-high-girth-and-high-chromatic-number_360p_16_9.mp4
 file_size: 104002178
 file_type: video/mp4
 image_metadata:
