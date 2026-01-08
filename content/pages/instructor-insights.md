@@ -23,14 +23,14 @@ Below, Professor Yufei Zhao describes various aspects of how he taught *18.226* 
 ### Prerequisites
 
 - *18.211 Combinatorial Analysis* 
-- {{% resource_link "50da8201-09b2-48fb-82a0-c068e70b725f" "*18.600 Probability and Random Variables*" %}}
-- {{% resource_link "16c6c2f2-f781-4190-b19b-21b5d88fbb4c" "*18.100A Real Analysis*" %}}, {{% resource_link "ff51b1f7-1902-42d6-9962-251b85925526" "*18.100B Real Analysis*" %}}, *18.100P Real Analysis*, or *18.100Q Real Analysis* 
+- [*18.600 Probability and Random Variables*](https://ocw.mit.edu/courses/18-600-probability-and-random-variables-fall-2019/)
+- [*18.100A Real Analysis*](https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020/), [*18.100B Real Analysis*](https://ocw.mit.edu/courses/18-100b-analysis-i-fall-2010/), *18.100P Real Analysis*, or *18.100Q Real Analysis* 
 
 or permission of instructor
 
 ### Requirements Satisfied
 
-18.226 can be applied toward a doctorate degree in {{% resource_link "62fcbb1a-829b-4371-baf2-136b0c8352c8" "Pure or Applied Mathematics" %}}, but is not required.
+18.226 can be applied toward a doctorate degree in [Pure or Applied Mathematics](http://math.mit.edu/academics/grad/index.php), but is not required.
 
 ### Offered
 
